@@ -48,7 +48,7 @@ export default function Projects() {
     {
      title: 'Rustic Mountain Retreat',
      description: '2,400 sq ft cabin featuring reclaimed wood and stone accents',
-     image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600',
+     image: 'https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=600',
      category: 'Custom Home',
     },
     {
